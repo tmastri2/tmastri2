@@ -1,2 +1,2 @@
 - This is Thomas Mastri's personal github account.
-  -  Mostrepos are private, but can ask me if there is code you need.
+  -  Most repos are private, but can ask me if there is code you need.
